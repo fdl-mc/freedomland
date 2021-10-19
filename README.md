@@ -25,4 +25,4 @@ Repository                                                          | Descriptio
 
 Repository                                                          | Description
 -----------                                                         | ------------
-[fdl-api-dart](https://github.com/fdl-mc/fdl-mc.github.io)          | FreedomLand API wrapper for Dart.
+[fdl-api-dart](https://github.com/fdl-mc/fdl-api-dart)              | FreedomLand API wrapper for Dart.
