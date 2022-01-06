@@ -9,7 +9,7 @@ such as feature suggestions, questions and any general talk.
 Repository                                                          | Description
 -----------                                                         | ------------
 [FDL-Bot](https://github.com/fdl-mc/fdl-bot)                        | Discord bot for FDL API integration.
-[FreedomLand](https://github.com/fdl-mc/freedomland)                | FreedomLand mobile app, built with Flutter.
+[FDL-Mobile](https://github.com/fdl-mc/fdl-mobile)                  | FreedomLand mobile app, built with Flutter.
 [FDL-Server](https://github.com/fdl-mc/fdl-server)                  | FreedomLand API server, build with Dart.
 
 
