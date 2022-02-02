@@ -26,3 +26,4 @@ Repository                                                          | Descriptio
 Repository                                                          | Description
 -----------                                                         | ------------
 [fdl-api-dart](https://github.com/fdl-mc/fdl-api-dart)              | FreedomLand API wrapper for Dart.
+[fdl-configuration](https://github.com/fdl-mc/fdl-configuration)    | Minecraft server configuration files
